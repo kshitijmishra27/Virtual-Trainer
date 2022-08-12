@@ -1,3 +1,4 @@
 # React Fitness Application
 
-![banner](https://user-images.githubusercontent.com/82284180/184357934-b6bd01e7-5da3-42c7-80f3-a266cc2f17f9.png)
+
+![Screenshot (246)](https://user-images.githubusercontent.com/82284180/184358393-18c6d184-aa72-4328-9130-7a092b5cc7a3.png)
